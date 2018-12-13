@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="mx.edu.ittepic.tpdm_u3_practica1_juanmejia.MainActivity">
+    <item
+        android:id="@+id/platillos"
+        android:orderInCategory="100"
+        android:title="Platillos" />
+
+    <item android:id="@+id/bebidad"
+        android:orderInCategory="101"
+       android:title="Bebidas" />
+</menu>
